@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MingukQiu
 - 👀 I’m interested in Probability and Statistics.
-- 🌱 I’m currently learning Random Matrix Theory (RMT).
+- 🌱 I’m currently learning Random Matrix Theory (RMT) and High-dimensional Statistics.
 - 📫 Email: qiumingu@gmail.com
 
 <!---
