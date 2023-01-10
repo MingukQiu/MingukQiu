@@ -1,5 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=MingukQiu&color=blue)
 
+**About me**
+
 - 👋 Hi, I’m @MingukQiu
 - 👀 I’m interested in Probability and Statistics.
 - 🌱 I’m currently learning Random Matrix Theory (RMT) and High-dimensional Statistics.
