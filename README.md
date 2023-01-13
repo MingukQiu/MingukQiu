@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 
 - 👋 Hi, I’m @MingukQiu
 - 👀 I’m interested in Probability and Statistics.
-- 🌱 I’m currently learning Random Matrix Theory (RMT) and High-dimensional Statistics.
+- 🌱 I’m currently learning Random Matrix Theory (RMT) and High-dimensional Statistics (HDS).
 - 📫 Email: qiumingu@gmail.com
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=MingukQiu&show_icons=true)](https://github.com/MingukQiu/github-readme-stats)
